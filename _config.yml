@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://onnar.github.io'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: ''
+baseurl: 'https://onnar.github.io'
 
 # Title of the Site
 title: KANG JU EON
