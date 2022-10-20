@@ -1,5 +1,9 @@
-source "https://rubygems.org" # source "https://gems.ruby-china.com"
+source "https://rubygems.org"
 
-gemspec
-
-gem "github-pages", group: :jekyll_plugins
+gem "kramdown"
+gem "kramdown-parser-gfm"
+gem "rouge"
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-paginate-content"
+gem "json"

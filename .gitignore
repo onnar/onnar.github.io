@@ -1,31 +1,8 @@
-# jekyll
-.jekyll-metadata
-_site
+.idea
+.DS_Store
 .sass-cache
-.jekyll-cache
-
-
-# bundler
-*.gem
 Gemfile.lock
-
-
-# python
-*.whl
-
-
-# npm
+package-json.lock
+_site
 node_modules
-package-lock.json
-
-
-# _sass
-_sass/@primer/css/**/*.md
-
-
-# lighthouse
-*.report.html
-
-
-# action
-action.changelog.md
+_drafts
